@@ -1,0 +1,3 @@
+Arquivo teste para testar comandos do github
+
+Git add .
